@@ -23,5 +23,7 @@ Below is a day-wise record of my progress along with output images. Replace plac
 
 ### Day 1
 **Topic:** Introduction & Basic HTML  
-![Day 1 Output](./day1/output.png)
+![OUTPUT PAGE 1](https://drive.google.com/file/d/11vBXQiCFhwP-uMhaUP8o06tWgpMnk6Rq/view?usp=drive_link)
+![OUTPUT PAGE 2](https://drive.google.com/file/d/1vBy1b02ErtLSLL8D3AFaNWrGQEctH9ss/view?usp=drive_link)
+![CODE](https://drive.google.com/file/d/1NCKOYXt6aLlsHtFymnO3JACBkvKfzfg7/view?usp=drive_link)
 
