@@ -22,8 +22,12 @@ The purpose of this repository is to showcase my **progress, experiments, and ha
 Below is a day-wise record of my progress along with output images. Replace placeholders with your actual images.
 
 ### Day 1
-**Topic:** Introduction & Basic HTML  
+**Topic:** Introduction & Basic HTML 
 ![OUTPUT PAGE 1](https://drive.google.com/uc?export=view&id=11vBXQiCFhwP-uMhaUP8o06tWgpMnk6Rq)
 ![OUTPUT PAGE 2](https://drive.google.com/uc?export=view&id=1vBy1b02ErtLSLL8D3AFaNWrGQEctH9ss)
 ![CODE](https://drive.google.com/uc?export=view&id=1NCKOYXt6aLlsHtFymnO3JACBkvKfzfg7)
+
+### Day 2
+**Topic:** Event Schedule & Registration Page
+![OUTPUT PAGE 1](https://drive.google.com/uc?export=view&id=179HHcqTnuFeOBWmu4Y0D2MhUc6XQghmv)
 
