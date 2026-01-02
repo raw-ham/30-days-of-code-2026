@@ -1,0 +1,106 @@
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EVENT</title>
+</head>
+
+<body>
+
+    <section>
+        <h1>EVENT SCHEDULE</h1>
+
+        <style>
+            td,
+            th {
+                border: 1px solid black;
+            }
+        </style>
+
+
+        <table style="border-collapse: collapse; ">
+
+            <thead>
+                <tr>
+                    <th>NAME</th>
+                    <th>TIME</th>
+                    <th>ACTIVITY</th>
+                    <th>VENUE</th>
+                </tr>
+
+                
+            </thead>
+
+            <tbody>
+                <tr>
+                    <td>Chess Trials</td>
+                    <td>2PM</td>
+                    <td>Rapid & Blitz</td>
+                    <td>Sports Complex, 1st floor</td>
+                </tr>
+
+                <tr>
+                    <td>Badminton Trials</td>
+                    <td>4PM</td>   
+                    <td>Mixed Double</td>
+                    <td>Sports Complex</td>
+                </tr>
+
+                <tr>
+                    <td>Football Trials</td>
+                    <td>5PM</td>
+                    <td>20-5-20</td>
+                    <td>Main Ground</td>
+                </tr>
+            </tbody>
+        </table>
+    </section>
+
+    <hr>
+    <section>
+        <h3>REGISTER HERE</h3>
+        <form method="post">
+            <!--1.text
+	    2.email
+	    3.number
+	    4.date (optional alternative if needed)
+	    5.radio (minimum 3 options for ticket type)
+	    6.checkbox (minimum 3 selectable workshop preferences)-->
+
+        <label for="name">Name</label>
+        <input type="text" id = "name" name="NAME"><br>
+        <label for="email">Email</label>
+        <input type="text" id = "email" name="EMAIL"><br>
+        <label for="number">Number</label>
+        <input type="number" id = "number" name="NUM"><br>
+        <label for="date">Date</label>
+        <input type="date" id = "date"  name="DATE"><br>
+
+        <label >Ticket</label>
+        <input type="radio" id = "r_basic" name="TICKET" value="Basic">
+        <label for="r_basic">Basic</label>
+        <input type="radio" id = "r_mid" name="TICKET" value="Gold">
+        <label for="r_mid">Gold</label>
+        <input type="radio" id = "r_adv" name="TICKET" value="Premium">
+        <label for="r_adv">Premium</label><br>
+
+        <label >Sports</label><br>
+        <input type="checkbox" id = p1 name="Sports"  value="Chess">
+        <label for="p1">Chess</label><br>
+        <input type="checkbox" id = p2 name="Sports" value="Badminton">
+        <label for="p2">Badminton</label><br>
+        <input type="checkbox" id = p3 name="Sports" value="Football">
+        <label for="p3">Football</label><br>
+
+        <textarea name="comments" id="cmnt"></textarea><br>
+
+        <input type="submit" value="REGISTER">
+
+        
+        </form>
+    </section>
+
+</body>
+
+</html>
