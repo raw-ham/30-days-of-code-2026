@@ -1,0 +1,285 @@
+
+.btn {
+    background-color:#466E47;
+    color: #c0d497;
+    padding: 10px 30px;
+    border: none;
+    border-radius: 12px;
+    cursor: pointer;
+    margin: 0px 0px 0px 10px;
+    text-decoration: none;font-size: 20px;
+    font-family: "Kanit", sans-serif;
+    font-weight: 300;
+
+    font-style: normal;
+}
+
+.btn:hover {
+    background-color: #c0d497;
+    color: #466E47;
+}
+
+p {
+    white-space: normal;
+    overflow-wrap: break-word;
+    text-align: justify;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-size: 25px;
+    font-family: "Kanit", sans-serif;
+    font-weight: 250;
+    font-style: normal;
+    opacity: 0.8;
+}
+
+h2 {
+    font-size: 50px;
+    margin-bottom: 20px;
+    margin: 0px;
+    margin-bottom: 40px;
+    font-family: "Kanit", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    opacity: 0.8;
+}
+
+h3{
+    font-family: "Kanit", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+h4 {
+    font-size: 30px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    width: max-content;
+    font-family: "Kanit", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    
+}
+
+li {
+    margin-bottom: 10px;
+    margin-top: 40px;
+    margin-left: 40px;
+    width: max-content;
+    font-size: 25px;
+    font-family: "Kanit", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}
+
+ul {
+    margin-left: 40px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    width: max-content;
+    font-size: 20px;
+    font-family: "Kanit", sans-serif;
+    font-weight: 250;
+    font-style: normal;
+}
+
+
+
+
+blockquote {
+    margin: 0px;
+    margin-top: 10px;
+    opacity: 80%;font-size: 25px;
+    font-family: "Kanit", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}
+
+cite {
+    font-size: 30px;
+    opacity: 80%;
+}
+
+img {
+    border-radius: 50%;
+    margin-bottom: 20px;
+    border: 20px solid #ffffff20;
+    width: 10vw;
+    height: 10vw;
+}
+
+nav {
+    display: flex;
+    justify-content: right;background-color: #F2EFE1;
+    padding: 20px;
+    padding-bottom: 0px;
+    height: fit-content;
+}
+
+.navButton {
+    color: #fff;
+    background-color: #555;
+    text-decoration: none;
+    padding: 10px;
+    margin: 10px 5px;
+}
+
+main {
+    padding: 20px;
+    background-color: #F2EFE1;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    width: fit-content;
+    margin: 0 auto;
+    align-items: stretch;
+    min-height: 80vh;
+    gap: 0px;
+}
+
+.infoSection {
+    background-color:#A5B682;
+    padding: 20px;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50px 0px 0px 50px;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    padding-left: 0px;
+    padding-right: 0px;
+    margin: 5vh 0vh 5vh 15vw;
+    box-shadow: 10px 0px 75px #646f4f;
+}
+
+.skills_project_Section {
+    background-color: #A5B682;
+    border-radius: 0px 50px 50px 0px;
+    display: grid;
+    grid-template-rows: 1fr 1fr;
+    gap: 0px;
+    align-items: stretch;
+    justify-content: stretch;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    margin: 5vh 15vw 5vh 0vh;
+
+    box-shadow: 10px 0px 75px #646f4f;
+    
+    border-left: dashed 10px #b8cc95d4;
+}
+
+.skillsSection {
+    padding: 20px;
+    border-radius: 0px 50px 00px 0px;
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+    border-bottom: dashed 10px #b8cc95d4;
+}
+.projectsSection {
+    padding: 20px;
+    border-radius: 0px 50px 50px 0px;
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+    width: fit-content;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.project {
+    height: 100%;
+    width: 80%;
+    margin-bottom: 20px;
+    border-radius: 20px;
+    margin-left: 40px;
+}
+
+.project p {
+    font-size: 20px;
+    text-align: left;
+    margin-bottom: 10px;
+}
+
+.project cite {
+    font-size: 15px;
+    margin: 0px;
+    text-align: left;
+}
+
+.project a{
+    margin-top: 10px;
+}
+
+
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+footer p {
+    font-size: 15px;
+}
+
+.aboutmain {
+    grid-template-columns: 1fr 1fr 1fr;
+    padding-left: 100px;
+    padding-right: 100px;
+    gap: 10px;
+    height: fit-content;
+}
+
+.aboutmain .infoSection {
+    margin: 0px;
+    align-items: top;
+    justify-content: top;
+}
+
+.aboutmain p {
+    font-size: 15px;
+}
+
+.aboutSection {
+    background-color: #A5B682;
+    border-radius: 10px;
+    margin-left: 10px;
+    display: flex;
+    align-items: left;
+    justify-content: left;
+    border-right: dashed 15px #ffffffc8;
+    box-shadow: 0px 0px 0px rgba(0, 0, 0, 0.2);
+}
+
+.aboutSection h4 {
+    font-family: "Cedarville Cursive", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+dl{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+dt cite{
+    font-family: "Kanit", sans-serif;
+    font-weight: 250;
+    font-style: normal;
+    font-size: 25px;
+}
+
+dd{
+    font-family: "Kanit", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+    font-size: 15px;
+}
