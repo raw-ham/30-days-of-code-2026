@@ -31,3 +31,8 @@ Below is a day-wise record of my progress along with output images. Replace plac
 **Topic:** Event Schedule & Registration Page
 ![OUTPUT PAGE 1](https://drive.google.com/uc?export=view&id=179HHcqTnuFeOBWmu4Y0D2MhUc6XQghmv)
 
+### Day 3
+**Topic:** Design Day-1 project using CSS
+![OUTPUT PAGE 1](https://drive.google.com/uc?export=view&id=1Q_n9H6s6Fqe4qf4LwABkVn0553i6dFis)
+![OUTPUT PAGE 1](https://drive.google.com/uc?export=view&id=1DDIHVhhI9Cy1ZXpkHRv4mjKcxH8fFEX1)
+
