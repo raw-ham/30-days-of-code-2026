@@ -33,6 +33,6 @@ Below is a day-wise record of my progress along with output images. Replace plac
 
 ### Day 3
 **Topic:** Design Day-1 project using CSS
-![OUTPUT PAGE 1](https://drive.google.com/uc?export=view&id=1Q_n9H6s6Fqe4qf4LwABkVn0553i6dFis)
+![OUTPUT PAGE 1](https://drive.google.com/uc?export=view&id=1d56QGmKpYm9-O4avp2rld4KyYaafcRRX)
 ![OUTPUT PAGE 1](https://drive.google.com/uc?export=view&id=1DDIHVhhI9Cy1ZXpkHRv4mjKcxH8fFEX1)
 
