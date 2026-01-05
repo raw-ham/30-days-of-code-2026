@@ -45,7 +45,7 @@ Below is a day-wise record of my progress along with output images. Replace plac
 
 ### Day 5
 **Topic:** Tic Tac Toe
-[a live-deployed](tixtaxtoe.vercel.app)
+[a live-deployed]([tixtaxtoe.vercel.app](https://tixtaxtoe.vercel.app/))
 ![OUTPUT PAGE 1](https://drive.google.com/uc?export=view&id=1-LvtwS-c6K2HVUE2JXD-SpC7Jzqg2E6z)
 ![OUTPUT PAGE 2](https://drive.google.com/uc?export=view&id=1t0c_QswUl6Cmppg0j0TqU6sTROxDMk_J)
 ![OUTPUT PAGE 3](https://drive.google.com/uc?export=view&id=16ypaPOPHpvPkuXQOArxSRABqJxkqqpMH)
