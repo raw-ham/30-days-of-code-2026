@@ -35,8 +35,18 @@ Below is a day-wise record of my progress along with output images. Replace plac
 **Topic:** Design Day-1 project using CSS
 ![OUTPUT PAGE 1](https://drive.google.com/uc?export=view&id=1d56QGmKpYm9-O4avp2rld4KyYaafcRRX)
 ![OUTPUT PAGE 1](https://drive.google.com/uc?export=view&id=1DDIHVhhI9Cy1ZXpkHRv4mjKcxH8fFEX1)
+[a img](https://drive.google.com/file/d/1d56QGmKpYm9-O4avp2rld4KyYaafcRRX/view?usp=drive_link)
+[a img](https://drive.google.com/file/d/1DDIHVhhI9Cy1ZXpkHRv4mjKcxH8fFEX1/view?usp=drive_link)
+
 
 ### Day 4
 **Topic:** Landing Page for a product
 ![OUTPUT PAGE 1](https://drive.google.com/uc?export=view&id=1kBxn16ap5G2frPAKaD4C5kQfMcfttVmI)
 
+### Day 5
+**Topic:** Tic Tac Toe
+**Deployed:** [a link](tixtaxtoe.vercel.app)
+![OUTPUT PAGE 1](https://drive.google.com/uc?export=view&id=1UPptYvsXfp5j86lU8AyGmOFHGpQa-nFS)
+![OUTPUT PAGE 1](https://drive.google.com/uc?export=view&id=1-LvtwS-c6K2HVUE2JXD-SpC7Jzqg2E6z)
+![OUTPUT PAGE 1](https://drive.google.com/uc?export=view&id=1t0c_QswUl6Cmppg0j0TqU6sTROxDMk_J)
+![OUTPUT PAGE 1](https://drive.google.com/uc?export=view&id=16ypaPOPHpvPkuXQOArxSRABqJxkqqpMH)
