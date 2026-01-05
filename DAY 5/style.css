@@ -50,7 +50,7 @@ svg{
     grid-template-rows: 1fr 1fr 1fr;
     height: 50vh;
     width: 50vh;
-    background-color: #f2efe100;
+    background-color: #F2EFE1;
     transition: gap 2s ease-in-out;
     margin: 40px;
     padding: 20px;
@@ -245,5 +245,6 @@ svg{
 .shrink{
     transform: scale(0.75);
 }
+
 
 
