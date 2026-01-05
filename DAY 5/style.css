@@ -53,7 +53,6 @@ svg{
     background-color: #F2EFE1;
     transition: gap 2s ease-in-out;
     margin: 40px;
-    padding: 20px;
 }
 
 .btn{
@@ -245,6 +244,7 @@ svg{
 .shrink{
     transform: scale(0.75);
 }
+
 
 
 
