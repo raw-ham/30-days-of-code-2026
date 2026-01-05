@@ -1,0 +1,241 @@
+.hidden{
+    display: none;
+}
+
+svg{
+    height: 50px;
+    width: 50px;
+}
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+    background-color: #4C1E52;
+}
+
+#endboard{
+    display: grid;
+    grid-template-rows: 1fr 1fr;
+    height: fit-content;
+    width: fit-content;
+    background-color: #f2efe100;
+    transition: gap 2s ease-in-out;
+    gap: 10px;
+    padding: 10px;
+}
+
+#endboard p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+    margin: 0px;
+    padding: 0px;
+    border:2px solid #4C1E52;
+    background-color: #f2efe100;
+    color: #f1f1f1;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#board{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+    height: 50vh;
+    width: 50vh;
+    background-color: #F2EFE1;
+    transition: gap 2s ease-in-out;
+}
+
+.btn{
+    background-color: aliceblue;
+    border: 0px;
+    font-size: 75px;
+    transition:  transform 0.5s ease-in-out, background-color 0.5s ease-in-out;
+}
+
+.grif{
+    animation-name: grif;
+    animation-duration: 1s;
+    animation-fill-mode: forwards;
+}
+.ggrif{
+    animation-name: ggrif;
+    animation-duration: 1s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes grif {
+    0% {
+        gap : 0px ;
+    }
+    100% {
+        gap : 10px ;
+    }
+}
+@keyframes ggrif {
+    0% {
+        background-color: #F2EFE1;
+        gap : 10px ;
+    }
+    100% {
+        background-color: #4C1E52;
+        gap : 0px ;
+    }
+}
+
+#playagain{
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 10px;
+    border: 1px solid white;
+    color: #4C1E52;
+    background-color: #ffffff;
+    border-radius: 20px;
+    opacity: 0.8;
+    margin: 10px;
+}
+
+#X{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.change{
+    animation-name: colorchange;
+    animation-duration: 0.5s;
+    animation-fill-mode: forwards;
+    background-color: #4C1E52;
+}
+
+.changeEnd{
+    animation-name: colorchangeend;
+    animation-duration: 0.5s;
+    animation-fill-mode: forwards;
+}
+
+.red
+{
+    animation: colorrchange 0.5s forwards;
+    background-color: #4C1E52;
+    color: white;
+}
+
+.green{
+    animation: colorrchange 0.5s forwards;
+    background-color:#4C1E52;
+    color: white;
+}
+
+@keyframes colorchange{
+    0% {
+        font-size: 75px ;
+    }
+    100% {
+        font-size: 0px ;
+    }
+}
+@keyframes colorchangeend{
+    0% {
+        opacity: 1;
+        font-size: 75px ;
+    }
+    100% {
+        opacity: 0;
+        font-size: 0px ;
+    }
+}
+
+
+@keyframes colorrchange{
+    0% {
+        font-size: 0px ;
+    }
+    100% {
+        font-size: 75px ;
+    }
+}
+
+
+#gameends{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+    background-color: #cba600;
+}
+
+#result{
+    display: grid;
+    grid-template-rows: 1fr 1fr;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: fit-content;
+    width: fit-content;
+    background-color: #f2efe100;
+    padding: 0px;
+    gap: 5px;
+}
+#result p{
+    font-size: 75px;
+    display: flex;
+    justify-self: center;
+    align-self: center;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: #2b2a2700;
+    border: 5px solid #2b2a27;
+    margin: 0px;
+    width: 10vw;
+    height: 10vw;
+    font-size: 30px;
+}
+
+
+.hidden{
+    display: none;
+}
+
+.show{
+    display: block;
+}
+
+#bottom{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    margin-top: 50px;
+    gap: 0px;
+    padding: 0px;
+    width: fit-content;
+    transition: transform 0.5s ease-in-out;
+}
+
+#note{
+    background-color: #15151500;
+    font-size: 25px;
+    color: #f1f1f1;
+    font-family: 'Courier New', Courier, monospace;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: 0px;
+}
+
+.shrink{
+    transform: scale(0.75);
+}

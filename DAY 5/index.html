@@ -1,0 +1,56 @@
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="./style.css">
+    <script src="./script.js"></script>
+</head>
+
+<body>
+    <main class="main" id="main">
+        <section id="board">
+            <button class="btn" id="1">T</button>
+            <button class="btn" id="2">I</button>
+            <button class="btn" id="3">C</button>
+            <button class="btn" id="4">T</button>
+            <button class="btn" id="5">A</button>
+            <button class="btn" id="6">C</button>
+            <button class="btn" id="7">T</button>
+            <button class="btn" id="8">O</button>
+            <button class="btn" id="9">E</button>
+        </section>
+
+        <section id="endboard">
+            <p class="btn" id="X"></p>
+            <button class="btn" id="playagain" onclick="playagain()">Play Again</button>
+        </section>
+
+        <section id="bottom">
+            <svg width="50" height="50" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+                <g>
+                    <line x1="40" y1="40" x2="60" y2="60" stroke="white" stroke-width="10" />
+                    <line x1="60" y1="40" x2="40" y2="60" stroke="white" stroke-width="10" />
+                    <animateTransform attributeName="transform" type="rotate" from="0 50 50" to="360 50 50" dur="2s"
+                        repeatCount="indefinite" calcMode="linear" />
+                </g>
+            </svg>
+
+            <p id="note">PRESS TO PLAY</p>
+            <svg width="50" height="50" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+                <g>
+                    <line x1="40" y1="40" x2="60" y2="60" stroke="white" stroke-width="10" />
+                    <line x1="60" y1="40" x2="40" y2="60" stroke="white" stroke-width="10" />
+                    <animateTransform attributeName="transform" type="rotate" from="0 50 50" to="360 50 50" dur="2s"
+                        repeatCount="indefinite" calcMode="linear" />
+                </g>
+            </svg>
+            
+        </section>
+
+    </main>
+
+</body>
+
+</html>
