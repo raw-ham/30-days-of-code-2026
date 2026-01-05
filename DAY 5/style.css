@@ -1,6 +1,10 @@
 .hidden{
     display: none;
 }
+body{
+    margin: 0px;
+    padding: 0px;
+}
 
 svg{
     height: 50px;
@@ -48,6 +52,7 @@ svg{
     width: 50vh;
     background-color: #F2EFE1;
     transition: gap 2s ease-in-out;
+    margin: 40px;
 }
 
 .btn{
@@ -239,3 +244,4 @@ svg{
 .shrink{
     transform: scale(0.75);
 }
+
