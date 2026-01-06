@@ -51,5 +51,5 @@ Below is a day-wise record of my progress along with output images. Replace plac
 ![PAGE 3](https://drive.google.com/uc?export=view&id=16ypaPOPHpvPkuXQOArxSRABqJxkqqpMH)
 
 ### Day 6
-**Topic:** Landing Page for a product
-![OUTPUT PAGE 1](https://drive.google.com/uc?export=view&id=14WsHnHOSFtvOhopvn0e7yjzgSSgrtTMe)
+**Topic:** Time Complexity
+![OUTPUT PAGE 1](https://drive.google.com/uc?export=view&id=1eepI-LE3cX-Ski-oHcrp28Qi5JbmsgNZ)
