@@ -49,3 +49,7 @@ Below is a day-wise record of my progress along with output images. Replace plac
 ![OUTPUT PAGE 1](https://drive.google.com/uc?export=view&id=1-LvtwS-c6K2HVUE2JXD-SpC7Jzqg2E6z)
 ![OUTPUT PAGE 2](https://drive.google.com/uc?export=view&id=1t0c_QswUl6Cmppg0j0TqU6sTROxDMk_J)
 ![PAGE 3](https://drive.google.com/uc?export=view&id=16ypaPOPHpvPkuXQOArxSRABqJxkqqpMH)
+
+### Day 6
+**Topic:** Landing Page for a product
+![OUTPUT PAGE 1](https://drive.google.com/uc?export=view&id=1hEevmdZj_N_-8bt8R2HRR12o-ZZ2aE5R)
