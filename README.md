@@ -52,4 +52,4 @@ Below is a day-wise record of my progress along with output images. Replace plac
 
 ### Day 6
 **Topic:** Landing Page for a product
-![OUTPUT PAGE 1](https://drive.google.com/uc?export=view&id=1hEevmdZj_N_-8bt8R2HRR12o-ZZ2aE5R)
+![OUTPUT PAGE 1](https://drive.google.com/uc?export=view&id=14WsHnHOSFtvOhopvn0e7yjzgSSgrtTMe)
