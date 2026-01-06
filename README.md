@@ -53,3 +53,7 @@ Below is a day-wise record of my progress along with output images.
 ### Day 6
 **Topic:** Time Complexity
 ![OUTPUT PAGE 1](https://drive.google.com/uc?export=view&id=1eepI-LE3cX-Ski-oHcrp28Qi5JbmsgNZ)
+
+### Day 7
+**Topic:** Sum of encrypted numbers using Array
+![OUTPUT PAGE 1](https://drive.google.com/uc?export=view&id=1IBcM6E1WB70cXTkqbJA22MPsI5Jz2rpJ)
