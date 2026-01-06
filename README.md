@@ -19,7 +19,7 @@ The purpose of this repository is to showcase my **progress, experiments, and ha
 
 ## 📅 Daily Progress & Outputs
 
-Below is a day-wise record of my progress along with output images. Replace placeholders with your actual images.
+Below is a day-wise record of my progress along with output images. 
 
 ### Day 1
 **Topic:** Introduction & Basic HTML 
