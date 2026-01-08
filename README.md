@@ -57,3 +57,7 @@ Below is a day-wise record of my progress along with output images.
 ### Day 7
 **Topic:** Sum of encrypted numbers using Array
 ![OUTPUT PAGE 1](https://drive.google.com/uc?export=view&id=1ZvyVubHeJEbgeswLpIjmu2Ws0vRB6dFj)
+
+### Day 8
+**Topic:** Consec list len
+![OUTPUT PAGE 1](https://drive.google.com/uc?export=view&id=1iWNfW8Hmq2QEP2GVPc8CJLdny1kC-51G)
