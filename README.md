@@ -61,3 +61,9 @@ Below is a day-wise record of my progress along with output images.
 ### Day 8
 **Topic:** Consec list len
 ![OUTPUT PAGE 1](https://drive.google.com/uc?export=view&id=1iWNfW8Hmq2QEP2GVPc8CJLdny1kC-51G)
+
+https://drive.google.com/file/d/10ig7XPa4swVc6kNazoR7CKcPUtP0ouLZ/view?usp=sharing
+
+### Day 9
+**Topic:** Odd number substring
+![OUTPUT PAGE 1](https://drive.google.com/uc?export=view&id=10ig7XPa4swVc6kNazoR7CKcPUtP0ouLZ)
