@@ -67,3 +67,7 @@ https://drive.google.com/file/d/10ig7XPa4swVc6kNazoR7CKcPUtP0ouLZ/view?usp=shari
 ### Day 9
 **Topic:** Odd number substring
 ![OUTPUT PAGE 1](https://drive.google.com/uc?export=view&id=10ig7XPa4swVc6kNazoR7CKcPUtP0ouLZ)
+
+### Day 10
+**Topic:** sorting 0,1,2
+![OUTPUT PAGE 1](https://drive.google.com/uc?export=view&id=14xdAEU-eheeq3VayD1wMyLwpmKQNIRu3)
