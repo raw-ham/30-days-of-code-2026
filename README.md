@@ -76,3 +76,10 @@ https://drive.google.com/file/d/10ig7XPa4swVc6kNazoR7CKcPUtP0ouLZ/view?usp=shari
 ### Day 11
 **Topic:** Merge sort
 ![OUTPUT PAGE 1](https://drive.google.com/uc?export=view&id=1NOCyCT4LwQ4zbturxajfZMsQ1NXy2CwN)
+
+https://drive.google.com/drive/folders/1n59iSfRaGkCcTgdVEnWIqEBRTYG2SaEU?usp=sharing
+https://drive.google.com/file/d/1OfE70UbENaPQ2MZUIAqR3F7GXNOtMdA5/view?usp=sharing
+
+### Day 12
+**Topic:** Merge sort
+![OUTPUT PAGE 1](https://drive.google.com/uc?export=view&id=1OfE70UbENaPQ2MZUIAqR3F7GXNOtMdA5)
