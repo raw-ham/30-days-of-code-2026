@@ -77,5 +77,9 @@ https://drive.google.com/file/d/10ig7XPa4swVc6kNazoR7CKcPUtP0ouLZ/view?usp=shari
 ![OUTPUT PAGE 1](https://drive.google.com/uc?export=view&id=/1K0GUxkgBvN9nr59nflYO4h6X2LFGgXfs)
 
 ### Day 12
-**Topic:** Binary sort
+**Topic:** Binary search
 ![OUTPUT PAGE 1](https://drive.google.com/uc?export=view&id=1OfE70UbENaPQ2MZUIAqR3F7GXNOtMdA5)
+
+### Day 13
+**Topic:** Koko Eating Banana
+![OUTPUT PAGE 1](https://drive.google.com/uc?export=view&id=1R-Mx5rY-yuiaNyoQYNwfVpjcdLlhcJqO)
