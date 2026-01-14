@@ -83,3 +83,7 @@ https://drive.google.com/file/d/10ig7XPa4swVc6kNazoR7CKcPUtP0ouLZ/view?usp=shari
 ### Day 13
 **Topic:** Koko Eating Banana
 ![OUTPUT PAGE 1](https://drive.google.com/uc?export=view&id=1R-Mx5rY-yuiaNyoQYNwfVpjcdLlhcJqO)
+
+### Day 14
+**Topic:** Active bit count
+![OUTPUT PAGE 1](https://drive.google.com/uc?export=view&id=1T1NVHsrI4nitqwNL_To9Dal7Emy1r1Ox)
