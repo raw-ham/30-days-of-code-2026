@@ -90,4 +90,4 @@ https://drive.google.com/file/d/10ig7XPa4swVc6kNazoR7CKcPUtP0ouLZ/view?usp=shari
 
 ### Day 15
 **Topic:** Ugly numbers
-![OUTPUT PAGE 1](https://drive.google.com/uc?export=view&id=1or4BZLmxBnoiFYSsiX_1_uduWM2sABtn)
+![OUTPUT PAGE 1](https://drive.google.com/uc?export=view&id=1TFZDJwwtaaKBctgJy1P_RSjygS1Gv_Yy)
