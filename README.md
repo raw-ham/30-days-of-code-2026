@@ -87,3 +87,7 @@ https://drive.google.com/file/d/10ig7XPa4swVc6kNazoR7CKcPUtP0ouLZ/view?usp=shari
 ### Day 14
 **Topic:** Active bit count
 ![OUTPUT PAGE 1](https://drive.google.com/uc?export=view&id=1T1NVHsrI4nitqwNL_To9Dal7Emy1r1Ox)
+
+### Day 15
+**Topic:** Ugly numbers
+![OUTPUT PAGE 1](https://drive.google.com/uc?export=view&id=1or4BZLmxBnoiFYSsiX_1_uduWM2sABtn)
